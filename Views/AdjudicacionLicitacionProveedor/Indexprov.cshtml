@@ -1,0 +1,58 @@
+﻿@model IEnumerable<PortalCompras.Models.AdjudicacionLicitacionProveedor>
+
+@{
+    ViewBag.Title = "Adjudicación";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@*<p>
+    @Html.ActionLink("Nuevo", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            Forma de pago
+            @*@Html.DisplayNameFor(model => model.FormaPagoAdj)*@
+        </th>
+        <th>
+            Cotización
+            @*@Html.DisplayNameFor(model => model.LicitacionCotizacionProv.IdCotizacion)*@
+        </th>
+        <th>
+            Licitación
+            @*@Html.DisplayNameFor(model => model.Licitacione.NombreLicitacion)*@
+        </th>
+        <th>
+            Producto
+            @*@Html.DisplayNameFor(model => model.Producto.NombreProducto)*@
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FormaPagoAdj)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LicitacionCotizacionProv.IdCotizacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Licitacione.NombreLicitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Producto.NombreProducto)
+            </td>
+            <td>
+                @*@Html.ActionLink("Editar", "Edit", new { id = item.IdAdjudicacion }) |*@
+                @Html.ActionLink("Detalle", "Detailspro", new { id = item.IdAdjudicacion }) |
+                @*@Html.ActionLink("Borrar", "Delete", new { id = item.IdAdjudicacion })|*@
+            </td>
+        </tr>
+    }
+
+</table>
+<p>@Html.ActionLink("Volver a menu inicial", "indexlogueadopro", "Home", new { area = "" }, new { @class = "nav-link" })</p>

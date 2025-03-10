@@ -2,7 +2,7 @@
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
   <EntityContainerMapping StorageEntityContainer="PortalComprasModelStoreContainer" CdmEntityContainer="PortalComprasEntities">
     <EntitySetMapping Name="AdjudicacionLicitacionProveedors">
-      <EntityTypeMapping TypeName="PortalComprasModel.AdjudicacionLicitacionProveedor">
+      <EntityTypeMapping TypeName="IsTypeOf(PortalComprasModel.AdjudicacionLicitacionProveedor)">
         <MappingFragment StoreEntitySet="AdjudicacionLicitacionProveedors">
           <ScalarProperty Name="IdAdjudicacion" ColumnName="IdAdjudicacion" />
           <ScalarProperty Name="IdLicitacion" ColumnName="IdLicitacion" />
@@ -13,7 +13,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="LicitacionCotizacionProvs">
-      <EntityTypeMapping TypeName="PortalComprasModel.LicitacionCotizacionProv">
+      <EntityTypeMapping TypeName="IsTypeOf(PortalComprasModel.LicitacionCotizacionProv)">
         <MappingFragment StoreEntitySet="LicitacionCotizacionProvs">
           <ScalarProperty Name="IdCotizacion" ColumnName="IdCotizacion" />
           <ScalarProperty Name="IdLicitacion" ColumnName="IdLicitacion" />
@@ -25,7 +25,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="Licitaciones">
-      <EntityTypeMapping TypeName="PortalComprasModel.Licitacione">
+      <EntityTypeMapping TypeName="IsTypeOf(PortalComprasModel.Licitacione)">
         <MappingFragment StoreEntitySet="Licitaciones">
           <ScalarProperty Name="IdLicitacion" ColumnName="IdLicitacion" />
           <ScalarProperty Name="NombreLicitacion" ColumnName="NombreLicitacion" />
@@ -34,11 +34,12 @@
           <ScalarProperty Name="FechaCierreLicitacion" ColumnName="FechaCierreLicitacion" />
           <ScalarProperty Name="FechaAdjudicacionLicitacion" ColumnName="FechaAdjudicacionLicitacion" />
           <ScalarProperty Name="ObservacionesLicitacion" ColumnName="ObservacionesLicitacion" />
+          <ScalarProperty Name="IdProducto" ColumnName="IdProducto" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="Licitadors">
-      <EntityTypeMapping TypeName="PortalComprasModel.Licitador">
+      <EntityTypeMapping TypeName="IsTypeOf(PortalComprasModel.Licitador)">
         <MappingFragment StoreEntitySet="Licitadors">
           <ScalarProperty Name="IdLicitador" ColumnName="IdLicitador" />
           <ScalarProperty Name="IdOrganismoLicitante" ColumnName="IdOrganismoLicitante" />
@@ -47,7 +48,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="OrganismoLicitantes">
-      <EntityTypeMapping TypeName="PortalComprasModel.OrganismoLicitante">
+      <EntityTypeMapping TypeName="IsTypeOf(PortalComprasModel.OrganismoLicitante)">
         <MappingFragment StoreEntitySet="OrganismoLicitantes">
           <ScalarProperty Name="IdOrganismoLicitante" ColumnName="IdOrganismoLicitante" />
           <ScalarProperty Name="NombreOrganismoLicitante" ColumnName="NombreOrganismoLicitante" />
@@ -57,7 +58,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="Productoes">
-      <EntityTypeMapping TypeName="PortalComprasModel.Producto">
+      <EntityTypeMapping TypeName="IsTypeOf(PortalComprasModel.Producto)">
         <MappingFragment StoreEntitySet="Productoes">
           <ScalarProperty Name="IdProducto" ColumnName="IdProducto" />
           <ScalarProperty Name="NombreProducto" ColumnName="NombreProducto" />
@@ -66,7 +67,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="Proveedors">
-      <EntityTypeMapping TypeName="PortalComprasModel.Proveedor">
+      <EntityTypeMapping TypeName="IsTypeOf(PortalComprasModel.Proveedor)">
         <MappingFragment StoreEntitySet="Proveedors">
           <ScalarProperty Name="IdProveedor" ColumnName="IdProveedor" />
           <ScalarProperty Name="NombreProveedor" ColumnName="NombreProveedor" />

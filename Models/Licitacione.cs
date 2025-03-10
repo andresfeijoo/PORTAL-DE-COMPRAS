@@ -28,11 +28,13 @@ namespace PortalCompras.Models
         public System.DateTime FechaCierreLicitacion { get; set; }
         public System.DateTime FechaAdjudicacionLicitacion { get; set; }
         public string ObservacionesLicitacion { get; set; }
+        public int IdProducto { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<AdjudicacionLicitacionProveedor> AdjudicacionLicitacionProveedors { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<LicitacionCotizacionProv> LicitacionCotizacionProvs { get; set; }
         public virtual Licitador Licitador { get; set; }
+        public virtual Producto Producto { get; set; }
     }
 }

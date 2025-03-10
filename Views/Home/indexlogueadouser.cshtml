@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Portal de compras";
+}
+
+
+<body>
+    <p>@Html.ActionLink("Adjuciaciones", "Index", "AdjudicacionLicitacionProveedor", new { area = "" }, new { @class = "nav-link" })</p>
+    <p>@Html.ActionLink("Cotizaciones", "Index", "LicitacionCotizacionProv", new { area = "" }, new { @class = "nav-link" })</p>
+    <p> @Html.ActionLink("Licitaciones", "Index", "Licitacione", new { area = "" }, new { @class = "nav-link" })</p>
+    <p>@Html.ActionLink("Organismo Licitante", "Index", "OrganismoLicitantes", new { area = "" }, new { @class = "nav-link" })</p>
+    <p>@Html.ActionLink("Licitador", "Index", "Licitador", new { area = "" }, new { @class = "nav-link" })</p>
+    <p>@Html.ActionLink("Proveedor", "Index", "Proveedor", new { area = "" }, new { @class = "nav-link" })</p>
+    <p>@Html.ActionLink("Productos", "Index", "Producto", new { area = "" }, new { @class = "nav-link" })</p>
+    <p>@Html.ActionLink("Licitaciones publicadas", "/", "ReporteLicitaciones.aspx",  new { area = "" }, new { @class = "nav-link" })</p>
+    <p>@Html.ActionLink("Manage", "Index", "Manage", new { area = "" }, new { @class = "nav-link" })</p>
+
+</body>

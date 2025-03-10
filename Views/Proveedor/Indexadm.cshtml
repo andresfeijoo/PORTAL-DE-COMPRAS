@@ -1,0 +1,65 @@
+﻿@model IEnumerable<PortalCompras.Models.Proveedor>
+
+@{
+    ViewBag.Title = "Proveedor";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Proveedor</h2>
+
+@*<p>
+    @Html.ActionLink("Nuevo", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            Razon social
+            @*@Html.DisplayNameFor(model => model.NombreProveedor)*@
+        </th>
+        <th>
+            CUIT
+            @*@Html.DisplayNameFor(model => model.CUITProveedor)*@
+        </th>
+        <th>
+            Telefono
+            @*@Html.DisplayNameFor(model => model.TelProveedor)*@
+        </th>
+        <th>
+            Correo Electronico
+            @*@Html.DisplayNameFor(model => model.CorreoProveedor)*@
+        </th>
+        <th>
+            Domicilio
+            @*@Html.DisplayNameFor(model => model.DomicilioProveedor)*@
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreProveedor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CUITProveedor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TelProveedor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CorreoProveedor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DomicilioProveedor)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.IdProveedor }) |
+                @Html.ActionLink("Detalle", "Details", new { id = item.IdProveedor }) |
+               @Html.ActionLink("Borrar", "Delete", new { id = item.IdProveedor })
+            </td>
+        </tr>
+    }
+
+</table>
+<p>@Html.ActionLink("Volver a menu inicial", "indexlogueado", "Home", new { area = "" }, new { @class = "nav-link" })</p>

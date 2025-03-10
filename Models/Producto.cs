@@ -19,6 +19,7 @@ namespace PortalCompras.Models
         {
             this.AdjudicacionLicitacionProveedors = new HashSet<AdjudicacionLicitacionProveedor>();
             this.LicitacionCotizacionProvs = new HashSet<LicitacionCotizacionProv>();
+            this.Licitaciones = new HashSet<Licitacione>();
         }
     
         public int IdProducto { get; set; }
@@ -29,5 +30,7 @@ namespace PortalCompras.Models
         public virtual ICollection<AdjudicacionLicitacionProveedor> AdjudicacionLicitacionProveedors { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<LicitacionCotizacionProv> LicitacionCotizacionProvs { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Licitacione> Licitaciones { get; set; }
     }
 }

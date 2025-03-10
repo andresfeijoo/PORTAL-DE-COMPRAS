@@ -198,3 +198,1247 @@ C:\Users\afeij\OneDrive\Escritorio\PortalCompras\portal-de-compras\obj\Debug\Por
 C:\Users\afeij\OneDrive\Escritorio\PortalCompras\portal-de-compras\obj\Debug\PortalCo.F654138D.Up2Date
 C:\Users\afeij\OneDrive\Escritorio\PortalCompras\portal-de-compras\obj\Debug\PortalCompras.dll
 C:\Users\afeij\OneDrive\Escritorio\PortalCompras\portal-de-compras\obj\Debug\PortalCompras.pdb
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\PortalCompras.dll.config
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\PortalCompras.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\PortalCompras.pdb
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\csc.exe
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\csc.exe.config
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\csc.rsp
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\csi.exe
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\csi.exe.config
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\csi.rsp
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\System.Buffers.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\System.Memory.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\vbc.exe
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\vbc.exe.config
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\vbc.rsp
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\VBCSCompiler.exe
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Antlr3.Runtime.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\EntityFramework.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\EntityFramework.SqlServer.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Newtonsoft.Json.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Owin.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.Helpers.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.Mvc.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.Optimization.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.Razor.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.WebPages.Deployment.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.WebPages.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.WebPages.Razor.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\WebGrease.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.Helpers.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.Mvc.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.Razor.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.WebPages.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.WebPages.Deployment.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.WebPages.Razor.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\System.Web.Optimization.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Newtonsoft.Json.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Antlr3.Runtime.pdb
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\EntityFramework.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\EntityFramework.SqlServer.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\es\System.Web.Helpers.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\es\System.Web.Mvc.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\es\System.Web.Razor.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\es\System.Web.WebPages.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\es\System.Web.Optimization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\obj\Debug\PortalCompras.csproj.AssemblyReference.cache
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\obj\Debug\PortalCompras.csproj.CoreCompileInputs.cache
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\obj\Debug\PortalCo.F654138D.Up2Date
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\obj\Debug\PortalCompras.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras para romper\obj\Debug\PortalCompras.pdb
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\PortalCompras.dll.config
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\PortalCompras.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\PortalCompras.pdb
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csc.exe
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csc.exe.config
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csc.rsp
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csi.exe
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csi.exe.config
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csi.rsp
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Buffers.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Memory.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.exe
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.exe.config
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.rsp
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\VBCSCompiler.exe
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Antlr3.Runtime.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\EntityFramework.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\EntityFramework.SqlServer.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Newtonsoft.Json.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Owin.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Helpers.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Mvc.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Optimization.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Razor.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Razor.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\WebGrease.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Helpers.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Mvc.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Razor.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Razor.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Optimization.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Newtonsoft.Json.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Antlr3.Runtime.pdb
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\EntityFramework.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\EntityFramework.SqlServer.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Helpers.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Mvc.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Razor.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Optimization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.csproj.AssemblyReference.cache
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.csproj.CoreCompileInputs.cache
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCo.F654138D.Up2Date
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.dll
+C:\Users\afeij\OneDrive\Escritorio\Escritorio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.pdb
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\PortalCompras.dll.config
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\PortalCompras.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\PortalCompras.pdb
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csc.exe
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csc.exe.config
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csc.rsp
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csi.exe
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csi.exe.config
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\csi.rsp
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Buffers.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Memory.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.exe
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.exe.config
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.rsp
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\VBCSCompiler.exe
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Antlr3.Runtime.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\EntityFramework.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\EntityFramework.SqlServer.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.SqlServer.Types.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Newtonsoft.Json.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Owin.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Helpers.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Mvc.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Optimization.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Razor.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Razor.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\WebGrease.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\EnvDTE.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\stdole.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Helpers.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Mvc.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Razor.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Razor.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\System.Web.Optimization.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Newtonsoft.Json.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Antlr3.Runtime.pdb
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\EntityFramework.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\EntityFramework.SqlServer.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Helpers.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Mvc.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Razor.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Optimization.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.csproj.AssemblyReference.cache
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.csproj.CoreCompileInputs.cache
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCo.F654138D.Up2Date
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.dll
+C:\Users\afeij\OneDrive\Escritorio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.pdb
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\PortalCompras.dll.config
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\PortalCompras.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\PortalCompras.pdb
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\csc.exe
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\csc.exe.config
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\csc.rsp
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\csi.exe
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\csi.exe.config
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\csi.rsp
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\System.Buffers.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\System.Memory.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.exe
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.exe.config
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.rsp
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\VBCSCompiler.exe
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Antlr3.Runtime.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\EntityFramework.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\EntityFramework.SqlServer.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.SqlServer.Types.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Newtonsoft.Json.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Owin.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.Helpers.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.Mvc.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.Optimization.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.Razor.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Razor.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\WebGrease.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\EnvDTE.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\stdole.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.Helpers.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.Mvc.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.Razor.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Razor.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\System.Web.Optimization.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Newtonsoft.Json.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Antlr3.Runtime.pdb
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\EntityFramework.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\EntityFramework.SqlServer.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\System.Web.Helpers.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\System.Web.Mvc.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\System.Web.Razor.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\System.Web.Optimization.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.csproj.AssemblyReference.cache
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.csproj.CoreCompileInputs.cache
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\obj\Debug\PortalCo.F654138D.Up2Date
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.dll
+C:\Users\afeij\Desktop\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.pdb
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\PortalCompras.dll.config
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\PortalCompras.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\PortalCompras.pdb
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\csc.exe
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\csc.exe.config
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\csc.rsp
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\csi.exe
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\csi.exe.config
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\csi.rsp
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Buffers.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Memory.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.exe
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.exe.config
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\vbc.rsp
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\VBCSCompiler.exe
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Antlr3.Runtime.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\EntityFramework.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\EntityFramework.SqlServer.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.SqlServer.Types.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Newtonsoft.Json.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Owin.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.Helpers.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.Mvc.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.Optimization.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.Razor.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Razor.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\WebGrease.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\EnvDTE.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\stdole.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.Helpers.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.Mvc.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.Razor.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.WebPages.Razor.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\System.Web.Optimization.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Newtonsoft.Json.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Antlr3.Runtime.pdb
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\EntityFramework.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\EntityFramework.SqlServer.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Helpers.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Mvc.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Razor.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\System.Web.Optimization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.csproj.AssemblyReference.cache
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.csproj.CoreCompileInputs.cache
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCo.F654138D.Up2Date
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.dll
+C:\Users\afeij\Desktop\todo escritorrio\portal-de-compras no tocar funciona ok\obj\Debug\PortalCompras.pdb
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\PortalCompras.dll.config
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\PortalCompras.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\PortalCompras.pdb
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\csc.exe
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\csc.exe.config
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\csc.rsp
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\csi.exe
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\csi.exe.config
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\csi.rsp
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\System.Buffers.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\System.Memory.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\vbc.exe
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\vbc.exe.config
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\vbc.rsp
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\VBCSCompiler.exe
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Antlr3.Runtime.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\EntityFramework.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\EntityFramework.SqlServer.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.SqlServer.Types.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Newtonsoft.Json.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Owin.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.Helpers.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.Mvc.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.Optimization.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.Razor.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.WebPages.Deployment.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.WebPages.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.WebPages.Razor.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\WebGrease.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\EnvDTE.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\stdole.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.Helpers.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.Mvc.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.Razor.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.WebPages.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.WebPages.Razor.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\System.Web.Optimization.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Newtonsoft.Json.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Antlr3.Runtime.pdb
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\EntityFramework.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\EntityFramework.SqlServer.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\System.Web.Helpers.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\System.Web.Mvc.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\System.Web.Razor.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\System.Web.WebPages.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\obj\Debug\PortalCompras.csproj.AssemblyReference.cache
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\obj\Debug\PortalCompras.csproj.CoreCompileInputs.cache
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\obj\Debug\PortalCo.F654138D.Up2Date
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\obj\Debug\PortalCompras.dll
+C:\Users\afeij\Desktop\todo escritorrio\febrero 2025\portal-de-compra\obj\Debug\PortalCompras.pdb
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\PortalCompras.dll.config
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\PortalCompras.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\PortalCompras.pdb
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\csc.exe
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\csc.exe.config
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\csc.rsp
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\csi.exe
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\csi.exe.config
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\csi.rsp
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\System.Buffers.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\System.Memory.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\vbc.exe
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\vbc.exe.config
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\vbc.rsp
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\VBCSCompiler.exe
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Antlr3.Runtime.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\EntityFramework.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\EntityFramework.SqlServer.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.SqlServer.Types.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Newtonsoft.Json.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Owin.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.Helpers.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.Mvc.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.Optimization.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.Razor.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.WebPages.Deployment.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.WebPages.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.WebPages.Razor.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\WebGrease.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\EnvDTE.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\stdole.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.Helpers.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.Mvc.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.Razor.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.WebPages.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.WebPages.Razor.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\System.Web.Optimization.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Newtonsoft.Json.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Antlr3.Runtime.pdb
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\EntityFramework.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\EntityFramework.SqlServer.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\System.Web.Helpers.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\System.Web.Mvc.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\System.Web.Razor.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\System.Web.WebPages.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\obj\Debug\PortalCompras.csproj.AssemblyReference.cache
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\obj\Debug\PortalCompras.csproj.CoreCompileInputs.cache
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\obj\Debug\PortalCo.F654138D.Up2Date
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\obj\Debug\PortalCompras.dll
+C:\Users\afeij\Desktop\febrero 2025\portal-de-compra\obj\Debug\PortalCompras.pdb
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\PortalCompras.dll.config
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\PortalCompras.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\PortalCompras.pdb
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\csc.exe
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\csc.exe.config
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\csc.rsp
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\csi.exe
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\csi.exe.config
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\csi.rsp
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\System.Buffers.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\System.Memory.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\vbc.exe
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\vbc.exe.config
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\vbc.rsp
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\VBCSCompiler.exe
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Antlr3.Runtime.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\EntityFramework.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\EntityFramework.SqlServer.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.SqlServer.Types.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Newtonsoft.Json.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Owin.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.Helpers.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.Mvc.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.Optimization.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.Razor.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.WebPages.Deployment.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.WebPages.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.WebPages.Razor.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\WebGrease.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\EnvDTE.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\stdole.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.Helpers.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.Mvc.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.Razor.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.WebPages.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.WebPages.Razor.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\System.Web.Optimization.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Newtonsoft.Json.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Antlr3.Runtime.pdb
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\EntityFramework.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\EntityFramework.SqlServer.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\System.Web.Helpers.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\System.Web.Mvc.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\System.Web.Razor.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\System.Web.WebPages.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\obj\Debug\PortalCompras.csproj.AssemblyReference.cache
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\obj\Debug\PortalCompras.csproj.CoreCompileInputs.cache
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\obj\Debug\PortalCo.F654138D.Up2Date
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\obj\Debug\PortalCompras.dll
+C:\Users\afeij\Desktop\ultima version\portal-de-compra\obj\Debug\PortalCompras.pdb

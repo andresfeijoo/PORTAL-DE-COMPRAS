@@ -12,7 +12,24 @@ namespace PortalCompras.Controllers
         {
             return View();
         }
+        public ActionResult indexlogueado()
+        {
+            ViewBag.Message = "";
 
+            return View();
+        }
+        public ActionResult indexlogueadopro()
+        {
+            ViewBag.Message = "";
+
+            return View();
+        }
+        public ActionResult indexlogueadouser()
+        {
+            ViewBag.Message = "";
+
+            return View();
+        }
         public ActionResult About()
         {
             ViewBag.Message = "";

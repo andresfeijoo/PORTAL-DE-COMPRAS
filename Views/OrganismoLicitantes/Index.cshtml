@@ -13,35 +13,41 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.NombreOrganismoLicitante)
+            Organismo licitante
+            @*@Html.DisplayNameFor(model => model.NombreOrganismoLicitante)*@
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.ContactoOrganismoLicitante)
+            Contacto
+            @*@Html.DisplayNameFor(model => model.ContactoOrganismoLicitante)*@
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.DireccionOrganismoLicitante)
+            Direccion
+            @*@Html.DisplayNameFor(model => model.DireccionOrganismoLicitante)*@
         </th>
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.NombreOrganismoLicitante)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.ContactoOrganismoLicitante)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.DireccionOrganismoLicitante)
-        </td>
-        <td>
-            @Html.ActionLink("Editar", "Edit", new { id = item.IdOrganismoLicitante }) |
-            @Html.ActionLink("Detalle", "Details", new { id = item.IdOrganismoLicitante }) |
-            @Html.ActionLink("Eliminar", "Delete", new { id = item.IdOrganismoLicitante }) |
-            @Html.ActionLink("Licitador", "Index", "Licitador", new { id = item.IdOrganismoLicitante }, null)
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreOrganismoLicitante)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContactoOrganismoLicitante)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DireccionOrganismoLicitante)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.IdOrganismoLicitante }) |
+                @Html.ActionLink("Detalle", "Details", new { id = item.IdOrganismoLicitante }) |
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.IdOrganismoLicitante }) |
+
+            </td>
+
+        </tr>
+    }
 
 </table>
+<p>@Html.ActionLink("Volver a menu inicial", "indexlogueado", "Home", new { area = "" }, new { @class = "nav-link" })</p>

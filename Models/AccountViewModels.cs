@@ -79,6 +79,9 @@ namespace PortalCompras.Models
         [Display(Name = "Confirmar contraseña")]
         [Compare("Password", ErrorMessage = "La contraseña y la contraseña de confirmación no coinciden.")]
         public string ConfirmPassword { get; set; }
+        [DataType(DataType.Text)]
+        public string role { get; set; }
+        
     }
 
     public class ResetPasswordViewModel

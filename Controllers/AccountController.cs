@@ -5,6 +5,7 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
+using Microsoft.Ajax.Utilities;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
@@ -15,14 +16,13 @@ namespace PortalCompras.Controllers
     [Authorize]
     public class AccountController : Controller
     {
-        private ApplicationSignInManager _signInManager;
-        private ApplicationUserManager _userManager;
-
+        public ApplicationSignInManager _signInManager;
+        public ApplicationUserManager _userManager;
         public AccountController()
         {
         }
 
-        public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
+        public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
         {
             UserManager = userManager;
             SignInManager = signInManager;
@@ -34,9 +34,9 @@ namespace PortalCompras.Controllers
             {
                 return _signInManager ?? HttpContext.GetOwinContext().Get<ApplicationSignInManager>();
             }
-            private set 
-            { 
-                _signInManager = value; 
+            private set
+            {
+                _signInManager = value;
             }
         }
 
@@ -79,6 +79,23 @@ namespace PortalCompras.Controllers
             switch (result)
             {
                 case SignInStatus.Success:
+                    var user = await UserManager.FindByEmailAsync(model.Email);
+                    var roles = await UserManager.GetRolesAsync(user.Id);
+                  
+                    if (roles.Contains("Admin"))
+                    {
+                        return RedirectToAction("indexlogueado", "Home");
+                         
+                         }
+                    else if (roles.Contains("User"))
+                    {
+                        return RedirectToAction("indexlogueadouser", "Home");
+                    }
+                    else if (roles.Contains("Prov"))
+                    {
+                        return RedirectToAction("indexlogueadopro", "Home");
+                    }
+
                     return RedirectToLocal(returnUrl);
                 case SignInStatus.LockedOut:
                     return View("Lockout");
@@ -120,7 +137,7 @@ namespace PortalCompras.Controllers
             // Si un usuario introduce códigos incorrectos durante un intervalo especificado de tiempo, la cuenta del usuario 
             // se bloqueará durante un período de tiempo especificado. 
             // Puede configurar el bloqueo de la cuenta en IdentityConfig
-            var result = await SignInManager.TwoFactorSignInAsync(model.Provider, model.Code, isPersistent:  model.RememberMe, rememberBrowser: model.RememberBrowser);
+            var result = await SignInManager.TwoFactorSignInAsync(model.Provider, model.Code, isPersistent: model.RememberMe, rememberBrowser: model.RememberBrowser);
             switch (result)
             {
                 case SignInStatus.Success:
@@ -155,13 +172,29 @@ namespace PortalCompras.Controllers
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                    await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
-                    
-                    // Para obtener más información sobre cómo habilitar la confirmación de cuentas y el restablecimiento de contraseña, visite https://go.microsoft.com/fwlink/?LinkID=320771
-                    // Enviar un correo electrónico con este vínculo
-                    // string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
-                    // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
-                    // await UserManager.SendEmailAsync(user.Id, "Confirmar la cuenta", "Para confirmar su cuenta, haga clic <a href=\"" + callbackUrl + "\">aquí</a>");
+                    // Asignar el rol al usuario
+                    if (!string.IsNullOrEmpty(model.role))
+                    {
+                        var roleResult = await UserManager.AddToRoleAsync(user.Id, model.role);
+                        if (!roleResult.Succeeded)
+                        {
+                            AddErrors(roleResult);
+                            return View(model);
+                        }
+                    }
+
+                    await SignInManager.SignInAsync(user, isPersistent: false, rememberBrowser: false);
+
+                    // Redirigir al usuario según su rol
+                    if (model.role == "Prov")
+                    {
+                        return RedirectToAction("Create", "Proveedor");
+                    }
+                    // Redirigir al usuario según su rol
+                    if (model.role == "User")
+                    {
+                        return RedirectToAction("Create", "Licitador");
+                    }
 
                     return RedirectToAction("Index", "Home");
                 }
@@ -449,7 +482,7 @@ namespace PortalCompras.Controllers
             {
                 return Redirect(returnUrl);
             }
-            return RedirectToAction("Index", "OrganismoLicitantes");
+            return RedirectToAction("indexlogueado", "Home");
         }
 
         internal class ChallengeResult : HttpUnauthorizedResult
@@ -479,6 +512,28 @@ namespace PortalCompras.Controllers
                 }
                 context.HttpContext.GetOwinContext().Authentication.Challenge(properties, LoginProvider);
             }
+        }
+        public class HomeController : Controller
+        {
+            [Authorize(Roles = "Admin")]
+            public ActionResult AdminOnly()
+            {
+                return View();
+            }
+
+            [Authorize(Roles = "User")]
+            public ActionResult UserOnly()
+            {
+                return View();
+            }
+
+            [Authorize(Roles = "Prov")]
+            public ActionResult ProvOnly()
+            {
+                return View();
+            }
+
+            // Otras acciones del controlador
         }
         #endregion
     }

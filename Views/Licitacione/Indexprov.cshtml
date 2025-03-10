@@ -1,0 +1,79 @@
+﻿@model IEnumerable<PortalCompras.Models.Licitacione>
+
+@{
+    ViewBag.Title = "Licitaciones";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Licitaciones</h2>
+
+@*<p>
+    @Html.ActionLink("Nuevo", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            Licitación
+            @*@Html.DisplayNameFor(model => model.NombreLicitacion)*@
+        </th>
+        <th>
+            Fecha de creación
+            @*@Html.DisplayNameFor(model => model.FechaCreacionLicitacion)*@
+        </th>
+        <th>
+            Fecha de cierre
+            @*@Html.DisplayNameFor(model => model.FechaCierreLicitacion)*@
+        </th>
+        <th>
+            Fecha de adjudicación
+            @*@Html.DisplayNameFor(model => model.FechaAdjudicacionLicitacion)*@
+        </th>
+        <th>
+            Observaciones
+            @*@Html.DisplayNameFor(model => model.ObservacionesLicitacion)*@
+        </th>
+        <th>
+            Licitador
+            @*@Html.DisplayNameFor(model => model.Licitador.NombreLicitador)*@
+        </th>
+        <th>
+            Producto
+            @*@Html.DisplayNameFor(model => model.Producto.NombreProducto)*@
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreLicitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaCreacionLicitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaCierreLicitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaAdjudicacionLicitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ObservacionesLicitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Licitador.NombreLicitador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Producto.NombreProducto)
+            </td>
+            <td>
+                @*@Html.ActionLink("Editar", "Edit", new { id = item.IdLicitacion }) |*@
+                @Html.ActionLink("Detalle", "Detailspro", new { id = item.IdLicitacion }) |
+                @*@Html.ActionLink("Borrar", "Delete", new { id = item.IdLicitacion })*@
+            </td>
+        </tr>
+    }
+
+</table>
+<p>@Html.ActionLink("Volver a menu inicial", "indexlogueadopro", "Home", new { area = "" }, new { @class = "nav-link" })</p>

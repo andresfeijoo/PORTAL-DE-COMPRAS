@@ -15,11 +15,14 @@ namespace PortalCompras.Controllers
         private PortalComprasEntities db = new PortalComprasEntities();
 
         // GET: Proveedor
-        public ActionResult Index()
+        public ActionResult Indexadm()
         {
             return View(db.Proveedors.ToList());
         }
-
+        //public ActionResult Index()
+        //{
+        //    return RedirectToAction("index", "Proveedor"); 
+        //}
         // GET: Proveedor/Details/5
         public ActionResult Details(int? id)
         {
@@ -52,7 +55,7 @@ namespace PortalCompras.Controllers
             {
                 db.Proveedors.Add(proveedor);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("indexlogueadopro", "Home");
             }
 
             return View(proveedor);

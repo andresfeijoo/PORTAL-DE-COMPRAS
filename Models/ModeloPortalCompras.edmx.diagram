@@ -20,6 +20,7 @@
         <AssociationConnector Association="PortalComprasModel.FK_LicitacionCotizacionProv_Proveedor" ManuallyRouted="false" />
         <AssociationConnector Association="PortalComprasModel.FK_Licitaciones_Licitador" ManuallyRouted="false" />
         <AssociationConnector Association="PortalComprasModel.FK_Licitador_OrganismoLicitante" ManuallyRouted="false" />
+        <AssociationConnector Association="PortalComprasModel.FK_Licitaciones_Productoes" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

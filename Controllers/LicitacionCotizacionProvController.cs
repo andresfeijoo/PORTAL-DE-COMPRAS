@@ -4,24 +4,50 @@ using System.Data;
 using System.Data.Entity;
 using System.Linq;
 using System.Net;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
+using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.Owin;
+using Microsoft.ReportingServices.ReportProcessing.ReportObjectModel;
 using PortalCompras.Models;
 
 namespace PortalCompras.Controllers
 {
+    //[Authorize(Roles = "Prov")]
     public class LicitacionCotizacionProvController : Controller
     {
-        private PortalComprasEntities db = new PortalComprasEntities();
-
-        // GET: LicitacionCotizacionProv
+        // Obtiene el email del usuario logueado, que es el mismo que el username.
+        
         public ActionResult Index()
+        {
+            // Obtiene el email del usuario logueado, que es el mismo que el username.
+            string emailUsuario = User.Identity.GetUserName();
+
+            // Filtra las cotizaciones en las que el correo del proveedor coincide con el email del usuario logueado.
+            var licitacionCotizacionProvs = db.LicitacionCotizacionProvs
+                .Include(l => l.Licitacione)
+                .Include(l => l.Producto)
+                .Include(l => l.Proveedor)
+                .Where(l => l.Proveedor.CorreoProveedor == emailUsuario);
+
+            return View(licitacionCotizacionProvs.ToList());
+        }
+        
+
+
+
+        private PortalComprasEntities db = new PortalComprasEntities();
+        
+       
+        public ActionResult Indexadm()
         {
             var licitacionCotizacionProvs = db.LicitacionCotizacionProvs.Include(l => l.Licitacione).Include(l => l.Producto).Include(l => l.Proveedor);
             return View(licitacionCotizacionProvs.ToList());
         }
-
+        
         // GET: LicitacionCotizacionProv/Details/5
+        
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -41,13 +67,22 @@ namespace PortalCompras.Controllers
         {
             ViewBag.IdLicitacion = new SelectList(db.Licitaciones, "IdLicitacion", "NombreLicitacion");
             ViewBag.IdProducto = new SelectList(db.Productoes, "IdProducto", "NombreProducto");
-            ViewBag.IdProveedor = new SelectList(db.Proveedors, "IdProveedor", "NombreProveedor");
+
+
+            string emailUsuario = User.Identity.GetUserName();
+
+            // Busca el proveedor que tenga ese correo.
+            var proveedor = db.Proveedors.FirstOrDefault(p => p.CorreoProveedor == emailUsuario);
+            ViewBag.IdProveedor = new SelectList(new List<Proveedor> { proveedor }, "IdProveedor", "NombreProveedor");
+
+
+
+
+           // ViewBag.IdProveedor = new SelectList(db.Proveedors, "CorreoProveedor", "NombreProveedor");
             return View();
         }
 
         // POST: LicitacionCotizacionProv/Create
-        // Para protegerse de ataques de publicación excesiva, habilite las propiedades específicas a las que quiere enlazarse. Para obtener 
-        // más detalles, vea https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "IdCotizacion,IdLicitacion,IdProducto,IdProveedor,FechaCotizacionProveedor,PrecioUnitario")] LicitacionCotizacionProv licitacionCotizacionProv)
@@ -61,7 +96,23 @@ namespace PortalCompras.Controllers
 
             ViewBag.IdLicitacion = new SelectList(db.Licitaciones, "IdLicitacion", "NombreLicitacion", licitacionCotizacionProv.IdLicitacion);
             ViewBag.IdProducto = new SelectList(db.Productoes, "IdProducto", "NombreProducto", licitacionCotizacionProv.IdProducto);
-            ViewBag.IdProveedor = new SelectList(db.Proveedors, "IdProveedor", "NombreProveedor", licitacionCotizacionProv.IdProveedor);
+
+
+
+            string emailUsuario = User.Identity.GetUserName();
+
+            // Busca el proveedor que tenga ese correo.
+            var proveedor = db.Proveedors.FirstOrDefault(p => p.CorreoProveedor == emailUsuario);
+            ViewBag.IdProveedor = new SelectList(new List<Proveedor> { proveedor }, "IdProveedor", "NombreProveedor");
+
+
+
+
+
+
+
+
+           // ViewBag.IdProveedor = new SelectList(db.Proveedors, "CorreoProveedor", "NombreProveedor", licitacionCotizacionProv.Proveedor);
             return View(licitacionCotizacionProv);
         }
 
@@ -84,8 +135,6 @@ namespace PortalCompras.Controllers
         }
 
         // POST: LicitacionCotizacionProv/Edit/5
-        // Para protegerse de ataques de publicación excesiva, habilite las propiedades específicas a las que quiere enlazarse. Para obtener 
-        // más detalles, vea https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "IdCotizacion,IdLicitacion,IdProducto,IdProveedor,FechaCotizacionProveedor,PrecioUnitario")] LicitacionCotizacionProv licitacionCotizacionProv)

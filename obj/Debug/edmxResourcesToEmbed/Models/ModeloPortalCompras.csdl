@@ -42,6 +42,8 @@
     <NavigationProperty Name="AdjudicacionLicitacionProveedors" Relationship="Self.FK_AdjudicacionLicitacionProveedor_Licitaciones" FromRole="Licitaciones" ToRole="AdjudicacionLicitacionProveedors" />
     <NavigationProperty Name="LicitacionCotizacionProvs" Relationship="Self.FK_LicitacionCotizacionProv_Licitaciones" FromRole="Licitaciones" ToRole="LicitacionCotizacionProvs" />
     <NavigationProperty Name="Licitador" Relationship="Self.FK_Licitaciones_Licitador" FromRole="Licitaciones" ToRole="Licitadors" />
+    <Property Name="IdProducto" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Producto" Relationship="PortalComprasModel.FK_Licitaciones_Productoes" FromRole="Licitacione" ToRole="Producto" />
   </EntityType>
   <EntityType Name="Licitador">
     <Key>
@@ -72,6 +74,7 @@
     <Property Name="DescripcionProducto" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
     <NavigationProperty Name="AdjudicacionLicitacionProveedors" Relationship="Self.FK_AdjudicacionLicitacionProveedor_Producto" FromRole="Productoes" ToRole="AdjudicacionLicitacionProveedors" />
     <NavigationProperty Name="LicitacionCotizacionProvs" Relationship="Self.FK_LicitacionCotizacionProv_Producto" FromRole="Productoes" ToRole="LicitacionCotizacionProvs" />
+    <NavigationProperty Name="Licitaciones" Relationship="PortalComprasModel.FK_Licitaciones_Productoes" FromRole="Producto" ToRole="Licitacione" />
   </EntityType>
   <EntityType Name="Proveedor">
     <Key>
@@ -221,5 +224,21 @@
       <End Role="OrganismoLicitantes" EntitySet="OrganismoLicitantes" />
       <End Role="Licitadors" EntitySet="Licitadors" />
     </AssociationSet>
+    <AssociationSet Name="FK_Licitaciones_Productoes" Association="PortalComprasModel.FK_Licitaciones_Productoes">
+      <End Role="Producto" EntitySet="Productoes" />
+      <End Role="Licitacione" EntitySet="Licitaciones" />
+    </AssociationSet>
   </EntityContainer>
+  <Association Name="FK_Licitaciones_Productoes">
+    <End Type="PortalComprasModel.Producto" Role="Producto" Multiplicity="1" />
+    <End Type="PortalComprasModel.Licitacione" Role="Licitacione" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="IdProducto" />
+      </Principal>
+      <Dependent Role="Licitacione">
+        <PropertyRef Name="IdProducto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
 </Schema>
