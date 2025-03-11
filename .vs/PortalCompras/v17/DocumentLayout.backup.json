@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|c:\\users\\afeij\\desktop\\ultima version\\portal-de-compra\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|solutionrelative:controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|c:\\users\\afeij\\desktop\\ultima version\\portal-de-compra\\views\\adjudicacionlicitacionproveedor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|solutionrelative:views\\adjudicacionlicitacionproveedor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|c:\\users\\afeij\\desktop\\ultima version\\portal-de-compra\\views\\proveedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|solutionrelative:views\\proveedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|c:\\users\\afeij\\desktop\\ultima version\\portal-de-compra\\views\\home\\indexlogueadouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|solutionrelative:views\\home\\indexlogueadouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|c:\\users\\afeij\\desktop\\ultima version\\portal-de-compra\\controllers\\adjudicacionlicitacionproveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|solutionrelative:controllers\\adjudicacionlicitacionproveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,57 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProveedorController.cs",
-              "DocumentMoniker": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\Controllers\\ProveedorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProveedorController.cs",
-              "ToolTip": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\Controllers\\ProveedorController.cs",
-              "RelativeToolTip": "Controllers\\ProveedorController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:37:10.659Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\Views\\AdjudicacionLicitacionProveedor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdjudicacionLicitacionProveedor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\Views\\AdjudicacionLicitacionProveedor\\Create.cshtml",
+              "RelativeToolTip": "Views\\AdjudicacionLicitacionProveedor\\Create.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T23:27:40.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\Views\\Proveedor\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Proveedor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\Views\\Proveedor\\Index.cshtml",
-              "RelativeToolTip": "Views\\Proveedor\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T13:35:23.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "indexlogueadouser.cshtml",
-              "DocumentMoniker": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\Views\\Home\\indexlogueadouser.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\indexlogueadouser.cshtml",
-              "ToolTip": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\Views\\Home\\indexlogueadouser.cshtml",
-              "RelativeToolTip": "Views\\Home\\indexlogueadouser.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T12:51:34.32Z",
+              "Title": "AdjudicacionLicitacionProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\Controllers\\AdjudicacionLicitacionProveedorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdjudicacionLicitacionProveedorController.cs",
+              "ToolTip": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\Controllers\\AdjudicacionLicitacionProveedorController.cs",
+              "RelativeToolTip": "Controllers\\AdjudicacionLicitacionProveedorController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:30:45.406Z",
               "EditorCaption": ""
             }
           ]

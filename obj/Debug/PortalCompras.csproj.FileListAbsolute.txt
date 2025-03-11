@@ -1442,4 +1442,3 @@ C:\Users\afeij\Desktop\ultima version\portal-de-compra\obj\Debug\PortalCompras.c
 C:\Users\afeij\Desktop\ultima version\portal-de-compra\obj\Debug\PortalCo.F654138D.Up2Date
 C:\Users\afeij\Desktop\ultima version\portal-de-compra\obj\Debug\PortalCompras.dll
 C:\Users\afeij\Desktop\ultima version\portal-de-compra\obj\Debug\PortalCompras.pdb
-C:\Users\afeij\Desktop\ultima version\portal-de-compra\bin\AjaxControlToolkit.dll

@@ -47,7 +47,7 @@ namespace PortalCompras.Controllers
                 .Include(a => a.Licitacione)
                 .Include(a => a.Producto);
 
-            if (User.IsInRole("User"))
+            if (User.IsInRole("Prov"))
             {
                 string correoProv = User.Identity.Name;
                 var proveedor = db.Proveedors
