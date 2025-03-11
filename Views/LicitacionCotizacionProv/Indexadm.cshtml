@@ -1,0 +1,68 @@
+﻿@model IEnumerable<PortalCompras.Models.LicitacionCotizacionProv>
+
+@{
+    ViewBag.Title = "Cotizaciones";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Nuevo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Fecha de cotización
+            @*@Html.DisplayNameFor(model => model.FechaCotizacionProveedor)*@
+        </th>
+        <th>
+            Precio unitario
+            @*@Html.DisplayNameFor(model => model.PrecioUnitario)*@
+        </th>
+        <th>
+            Licitación
+            @*@Html.DisplayNameFor(model => model.Licitacione.NombreLicitacion)*@
+        </th>
+        <th>
+            Producto
+            @*@Html.DisplayNameFor(model => model.Producto.NombreProducto)*@
+        </th>
+        <th>
+            Proveedor
+            @*@Html.DisplayNameFor(model => model.Proveedor.NombreProveedor)*@
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaCotizacionProveedor)
+            </td>
+            <td>
+                $ @Html.DisplayFor(modelItem => item.PrecioUnitario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Licitacione.NombreLicitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Producto.NombreProducto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Proveedor.NombreProveedor)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.IdCotizacion }) |
+                @Html.ActionLink("Detalle", "Details", new { id = item.IdCotizacion }) |
+                @Html.ActionLink("Borrar", "Delete", new { id = item.IdCotizacion })|
+
+            </td>
+        </tr>
+    }
+
+</table>
+<p>@Html.ActionLink("Volver a menu inicial", "indexlogueado", "Home", new { area = "" }, new { @class = "nav-link" })</p>
+
+

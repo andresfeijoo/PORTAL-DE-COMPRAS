@@ -17,10 +17,14 @@ namespace PortalCompras.Controllers
         // GET: Licitacione
         public ActionResult Index()
         {
-            var licitaciones = db.Licitaciones.Include(l => l.Licitador);
+            var licitaciones = db.Licitaciones.Include(l => l.Licitador).Include(l => l.Producto);
             return View(licitaciones.ToList());
         }
-
+        public ActionResult Indexprov()
+        {
+            var licitaciones = db.Licitaciones.Include(l => l.Licitador).Include(l => l.Producto);
+            return View(licitaciones.ToList());
+        }
         // GET: Licitacione/Details/5
         public ActionResult Details(int? id)
         {
@@ -35,11 +39,24 @@ namespace PortalCompras.Controllers
             }
             return View(licitacione);
         }
-
+        public ActionResult Detailspro(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            Licitacione licitacione = db.Licitaciones.Find(id);
+            if (licitacione == null)
+            {
+                return HttpNotFound();
+            }
+            return View(licitacione);
+        }
         // GET: Licitacione/Create
         public ActionResult Create()
         {
             ViewBag.IdLicitador = new SelectList(db.Licitadors, "IdLicitador", "NombreLicitador");
+            ViewBag.IdProducto = new SelectList(db.Productoes, "IdProducto", "NombreProducto");
             return View();
         }
 
@@ -48,7 +65,7 @@ namespace PortalCompras.Controllers
         // más detalles, vea https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "IdLicitacion,NombreLicitacion,IdLicitador,FechaCreacionLicitacion,FechaCierreLicitacion,FechaAdjudicacionLicitacion,ObservacionesLicitacion")] Licitacione licitacione)
+        public ActionResult Create([Bind(Include = "IdLicitacion,NombreLicitacion,IdLicitador,FechaCreacionLicitacion,FechaCierreLicitacion,FechaAdjudicacionLicitacion,ObservacionesLicitacion,IdProducto")] Licitacione licitacione)
         {
             if (ModelState.IsValid)
             {
@@ -58,6 +75,7 @@ namespace PortalCompras.Controllers
             }
 
             ViewBag.IdLicitador = new SelectList(db.Licitadors, "IdLicitador", "NombreLicitador", licitacione.IdLicitador);
+            ViewBag.IdProducto = new SelectList(db.Productoes, "IdProducto", "NombreProducto", licitacione.IdProducto);
             return View(licitacione);
         }
 
@@ -74,6 +92,7 @@ namespace PortalCompras.Controllers
                 return HttpNotFound();
             }
             ViewBag.IdLicitador = new SelectList(db.Licitadors, "IdLicitador", "NombreLicitador", licitacione.IdLicitador);
+            ViewBag.IdProducto = new SelectList(db.Productoes, "IdProducto", "NombreProducto", licitacione.IdProducto);
             return View(licitacione);
         }
 
@@ -82,7 +101,7 @@ namespace PortalCompras.Controllers
         // más detalles, vea https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "IdLicitacion,NombreLicitacion,IdLicitador,FechaCreacionLicitacion,FechaCierreLicitacion,FechaAdjudicacionLicitacion,ObservacionesLicitacion")] Licitacione licitacione)
+        public ActionResult Edit([Bind(Include = "IdLicitacion,NombreLicitacion,IdLicitador,FechaCreacionLicitacion,FechaCierreLicitacion,FechaAdjudicacionLicitacion,ObservacionesLicitacion,IdProducto")] Licitacione licitacione)
         {
             if (ModelState.IsValid)
             {
@@ -91,6 +110,7 @@ namespace PortalCompras.Controllers
                 return RedirectToAction("Index");
             }
             ViewBag.IdLicitador = new SelectList(db.Licitadors, "IdLicitador", "NombreLicitador", licitacione.IdLicitador);
+            ViewBag.IdProducto = new SelectList(db.Productoes, "IdProducto", "NombreProducto", licitacione.IdProducto);
             return View(licitacione);
         }
 

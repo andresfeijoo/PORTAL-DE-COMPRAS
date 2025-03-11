@@ -1,0 +1,31 @@
+﻿@model IEnumerable<PortalCompras.Models.ApplicationUser>
+
+@{
+    ViewBag.Title = "Gestión de Usuarios";
+}
+
+<h2>Gestión de Usuarios</h2>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Nombre de Usuario</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Email</td>
+                <td>@user.UserName</td>
+                <td>
+                    @* Enlace para eliminar el usuario. Este redirige a la acción GET "DeleteUser" del AdminsController *@
+                    @Html.ActionLink("Eliminar", "DeleteUser", new { id = user.Id }, new { @class = "btn btn-danger btn-sm" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>@Html.ActionLink("Volver a menu inicial", "indexlogueado", "Home", new { area = "" }, new { @class = "nav-link" })</p>

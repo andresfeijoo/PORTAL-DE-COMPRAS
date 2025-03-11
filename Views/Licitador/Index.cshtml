@@ -13,29 +13,33 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.NombreLicitador)
+            Licitador
+            @*@Html.DisplayNameFor(model => model.NombreLicitador)*@
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.OrganismoLicitante.NombreOrganismoLicitante)
+            Organismo Licitante
+            @*@Html.DisplayNameFor(model => model.OrganismoLicitante.NombreOrganismoLicitante)*@
         </th>
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.NombreLicitador)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.OrganismoLicitante.NombreOrganismoLicitante)
-        </td>
-        <td>
-            @Html.ActionLink("Editar", "Edit", new { id = item.IdLicitador }) |
-            @Html.ActionLink("Detalle", "Details", new { id = item.IdLicitador }) |
-            @Html.ActionLink("Borrar", "Delete", new { id = item.IdLicitador }) |
-            @Html.ActionLink("Licitaciones", "Index", "Licitacione", new { Id = item.IdLicitador }, null)
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreLicitador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrganismoLicitante.NombreOrganismoLicitante)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.IdLicitador }) |
+                @Html.ActionLink("Detalle", "Details", new { id = item.IdLicitador }) |
+                @Html.ActionLink("Borrar", "Delete", new { id = item.IdLicitador }) |
+
+            </td>
+        </tr>
+    }
 
 </table>
+<p>@Html.ActionLink("Volver a menu inicial", "indexlogueado", "Home", new { area = "" }, new { @class = "nav-link" })</p>

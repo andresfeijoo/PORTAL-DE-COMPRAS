@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="PortalComprasModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="PortalComprasModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="AdjudicacionLicitacionProveedors">
           <Key>
             <PropertyRef Name="IdAdjudicacion" />
@@ -37,6 +37,7 @@
           <Property Name="FechaCierreLicitacion" Type="datetime" Nullable="false" />
           <Property Name="FechaAdjudicacionLicitacion" Type="datetime" Nullable="false" />
           <Property Name="ObservacionesLicitacion" Type="varchar(max)" Nullable="false" />
+          <Property Name="IdProducto" Type="int" Nullable="false" />
         </EntityType>
         <EntityType Name="Licitadors">
           <Key>
@@ -74,7 +75,7 @@
           <Property Name="CorreoProveedor" Type="varchar(max)" Nullable="false" />
           <Property Name="DomicilioProveedor" Type="varchar(max)" Nullable="false" />
         </EntityType>
-        <Association Name="FK_AdjudicacionLicitacionProveedor_LicitacionCotizacionProv">
+        <Association Name="FK_AdjudicacionLicitacionProveedors_LicitacionCotizacionProvs">
           <End Role="LicitacionCotizacionProvs" Type="Self.LicitacionCotizacionProvs" Multiplicity="1" />
           <End Role="AdjudicacionLicitacionProveedors" Type="Self.AdjudicacionLicitacionProveedors" Multiplicity="*" />
           <ReferentialConstraint>
@@ -86,7 +87,7 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK_AdjudicacionLicitacionProveedor_Licitaciones">
+        <Association Name="FK_AdjudicacionLicitacionProveedors_Licitaciones">
           <End Role="Licitaciones" Type="Self.Licitaciones" Multiplicity="1" />
           <End Role="AdjudicacionLicitacionProveedors" Type="Self.AdjudicacionLicitacionProveedors" Multiplicity="*" />
           <ReferentialConstraint>
@@ -98,19 +99,7 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK_AdjudicacionLicitacionProveedor_Producto">
-          <End Role="Productoes" Type="Self.Productoes" Multiplicity="1" />
-          <End Role="AdjudicacionLicitacionProveedors" Type="Self.AdjudicacionLicitacionProveedors" Multiplicity="*" />
-          <ReferentialConstraint>
-            <Principal Role="Productoes">
-              <PropertyRef Name="IdProducto" />
-            </Principal>
-            <Dependent Role="AdjudicacionLicitacionProveedors">
-              <PropertyRef Name="IdProducto" />
-            </Dependent>
-          </ReferentialConstraint>
-        </Association>
-        <Association Name="FK_LicitacionCotizacionProv_Licitaciones">
+        <Association Name="FK_LicitacionCotizacionProvs_Licitaciones">
           <End Role="Licitaciones" Type="Self.Licitaciones" Multiplicity="1" />
           <End Role="LicitacionCotizacionProvs" Type="Self.LicitacionCotizacionProvs" Multiplicity="*" />
           <ReferentialConstraint>
@@ -122,19 +111,7 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK_LicitacionCotizacionProv_Producto">
-          <End Role="Productoes" Type="Self.Productoes" Multiplicity="1" />
-          <End Role="LicitacionCotizacionProvs" Type="Self.LicitacionCotizacionProvs" Multiplicity="*" />
-          <ReferentialConstraint>
-            <Principal Role="Productoes">
-              <PropertyRef Name="IdProducto" />
-            </Principal>
-            <Dependent Role="LicitacionCotizacionProvs">
-              <PropertyRef Name="IdProducto" />
-            </Dependent>
-          </ReferentialConstraint>
-        </Association>
-        <Association Name="FK_LicitacionCotizacionProv_Proveedor">
+        <Association Name="FK_LicitacionCotizacionProvs_Proveedors">
           <End Role="Proveedors" Type="Self.Proveedors" Multiplicity="1" />
           <End Role="LicitacionCotizacionProvs" Type="Self.LicitacionCotizacionProvs" Multiplicity="*" />
           <ReferentialConstraint>
@@ -158,6 +135,18 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <Association Name="FK_Licitaciones_Productoes">
+          <End Role="Productoes" Type="Self.Productoes" Multiplicity="1" />
+          <End Role="Licitaciones" Type="Self.Licitaciones" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Productoes">
+              <PropertyRef Name="IdProducto" />
+            </Principal>
+            <Dependent Role="Licitaciones">
+              <PropertyRef Name="IdProducto" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         <Association Name="FK_Licitador_OrganismoLicitante">
           <End Role="OrganismoLicitantes" Type="Self.OrganismoLicitantes" Multiplicity="1" />
           <End Role="Licitadors" Type="Self.Licitadors" Multiplicity="*" />
@@ -178,27 +167,19 @@
           <EntitySet Name="OrganismoLicitantes" EntityType="Self.OrganismoLicitantes" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Productoes" EntityType="Self.Productoes" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Proveedors" EntityType="Self.Proveedors" Schema="dbo" store:Type="Tables" />
-          <AssociationSet Name="FK_AdjudicacionLicitacionProveedor_LicitacionCotizacionProv" Association="Self.FK_AdjudicacionLicitacionProveedor_LicitacionCotizacionProv">
+          <AssociationSet Name="FK_AdjudicacionLicitacionProveedors_LicitacionCotizacionProvs" Association="Self.FK_AdjudicacionLicitacionProveedors_LicitacionCotizacionProvs">
             <End Role="LicitacionCotizacionProvs" EntitySet="LicitacionCotizacionProvs" />
             <End Role="AdjudicacionLicitacionProveedors" EntitySet="AdjudicacionLicitacionProveedors" />
           </AssociationSet>
-          <AssociationSet Name="FK_AdjudicacionLicitacionProveedor_Licitaciones" Association="Self.FK_AdjudicacionLicitacionProveedor_Licitaciones">
+          <AssociationSet Name="FK_AdjudicacionLicitacionProveedors_Licitaciones" Association="Self.FK_AdjudicacionLicitacionProveedors_Licitaciones">
             <End Role="Licitaciones" EntitySet="Licitaciones" />
             <End Role="AdjudicacionLicitacionProveedors" EntitySet="AdjudicacionLicitacionProveedors" />
           </AssociationSet>
-          <AssociationSet Name="FK_AdjudicacionLicitacionProveedor_Producto" Association="Self.FK_AdjudicacionLicitacionProveedor_Producto">
-            <End Role="Productoes" EntitySet="Productoes" />
-            <End Role="AdjudicacionLicitacionProveedors" EntitySet="AdjudicacionLicitacionProveedors" />
-          </AssociationSet>
-          <AssociationSet Name="FK_LicitacionCotizacionProv_Licitaciones" Association="Self.FK_LicitacionCotizacionProv_Licitaciones">
+          <AssociationSet Name="FK_LicitacionCotizacionProvs_Licitaciones" Association="Self.FK_LicitacionCotizacionProvs_Licitaciones">
             <End Role="Licitaciones" EntitySet="Licitaciones" />
             <End Role="LicitacionCotizacionProvs" EntitySet="LicitacionCotizacionProvs" />
           </AssociationSet>
-          <AssociationSet Name="FK_LicitacionCotizacionProv_Producto" Association="Self.FK_LicitacionCotizacionProv_Producto">
-            <End Role="Productoes" EntitySet="Productoes" />
-            <End Role="LicitacionCotizacionProvs" EntitySet="LicitacionCotizacionProvs" />
-          </AssociationSet>
-          <AssociationSet Name="FK_LicitacionCotizacionProv_Proveedor" Association="Self.FK_LicitacionCotizacionProv_Proveedor">
+          <AssociationSet Name="FK_LicitacionCotizacionProvs_Proveedors" Association="Self.FK_LicitacionCotizacionProvs_Proveedors">
             <End Role="Proveedors" EntitySet="Proveedors" />
             <End Role="LicitacionCotizacionProvs" EntitySet="LicitacionCotizacionProvs" />
           </AssociationSet>
@@ -206,13 +187,16 @@
             <End Role="Licitadors" EntitySet="Licitadors" />
             <End Role="Licitaciones" EntitySet="Licitaciones" />
           </AssociationSet>
+          <AssociationSet Name="FK_Licitaciones_Productoes" Association="Self.FK_Licitaciones_Productoes">
+            <End Role="Productoes" EntitySet="Productoes" />
+            <End Role="Licitaciones" EntitySet="Licitaciones" />
+          </AssociationSet>
           <AssociationSet Name="FK_Licitador_OrganismoLicitante" Association="Self.FK_Licitador_OrganismoLicitante">
             <End Role="OrganismoLicitantes" EntitySet="OrganismoLicitantes" />
             <End Role="Licitadors" EntitySet="Licitadors" />
           </AssociationSet>
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="PortalComprasModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -258,6 +242,8 @@
           <NavigationProperty Name="AdjudicacionLicitacionProveedors" Relationship="Self.FK_AdjudicacionLicitacionProveedor_Licitaciones" FromRole="Licitaciones" ToRole="AdjudicacionLicitacionProveedors" />
           <NavigationProperty Name="LicitacionCotizacionProvs" Relationship="Self.FK_LicitacionCotizacionProv_Licitaciones" FromRole="Licitaciones" ToRole="LicitacionCotizacionProvs" />
           <NavigationProperty Name="Licitador" Relationship="Self.FK_Licitaciones_Licitador" FromRole="Licitaciones" ToRole="Licitadors" />
+          <Property Name="IdProducto" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Producto" Relationship="PortalComprasModel.FK_Licitaciones_Productoes" FromRole="Licitacione" ToRole="Producto" />
         </EntityType>
         <EntityType Name="Licitador">
           <Key>
@@ -288,6 +274,7 @@
           <Property Name="DescripcionProducto" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
           <NavigationProperty Name="AdjudicacionLicitacionProveedors" Relationship="Self.FK_AdjudicacionLicitacionProveedor_Producto" FromRole="Productoes" ToRole="AdjudicacionLicitacionProveedors" />
           <NavigationProperty Name="LicitacionCotizacionProvs" Relationship="Self.FK_LicitacionCotizacionProv_Producto" FromRole="Productoes" ToRole="LicitacionCotizacionProvs" />
+          <NavigationProperty Name="Licitaciones" Relationship="PortalComprasModel.FK_Licitaciones_Productoes" FromRole="Producto" ToRole="Licitacione" />
         </EntityType>
         <EntityType Name="Proveedor">
           <Key>
@@ -437,7 +424,23 @@
             <End Role="OrganismoLicitantes" EntitySet="OrganismoLicitantes" />
             <End Role="Licitadors" EntitySet="Licitadors" />
           </AssociationSet>
+          <AssociationSet Name="FK_Licitaciones_Productoes" Association="PortalComprasModel.FK_Licitaciones_Productoes">
+            <End Role="Producto" EntitySet="Productoes" />
+            <End Role="Licitacione" EntitySet="Licitaciones" />
+          </AssociationSet>
         </EntityContainer>
+        <Association Name="FK_Licitaciones_Productoes">
+          <End Type="PortalComprasModel.Producto" Role="Producto" Multiplicity="1" />
+          <End Type="PortalComprasModel.Licitacione" Role="Licitacione" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Producto">
+              <PropertyRef Name="IdProducto" />
+            </Principal>
+            <Dependent Role="Licitacione">
+              <PropertyRef Name="IdProducto" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -470,6 +473,7 @@
           <EntitySetMapping Name="Licitaciones">
             <EntityTypeMapping TypeName="PortalComprasModel.Licitacione">
               <MappingFragment StoreEntitySet="Licitaciones">
+                <ScalarProperty Name="IdProducto" ColumnName="IdProducto" />
                 <ScalarProperty Name="IdLicitacion" ColumnName="IdLicitacion" />
                 <ScalarProperty Name="NombreLicitacion" ColumnName="NombreLicitacion" />
                 <ScalarProperty Name="IdLicitador" ColumnName="IdLicitador" />

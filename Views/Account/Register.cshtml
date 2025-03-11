@@ -1,6 +1,12 @@
 ﻿@model PortalCompras.Models.RegisterViewModel
 @{
     ViewBag.Title = "Registrarse";
+    var roles = new List<SelectListItem>
+{
+        new SelectListItem { Value = "Admin", Text = "Administrador" },
+        new SelectListItem { Value = "User", Text = "Usuario" },
+        new SelectListItem { Value = "Prov", Text = "Proveedor" }
+    };
 }
 
 <main aria-labelledby="title">
@@ -28,6 +34,12 @@
             @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-2 col-form-label" })
             <div class="col-md-10">
                 @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="row">
+            @Html.LabelFor(m => m.role, "Rol", new { @class = "col-md-2 col-form-label" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.role, new SelectList(roles, "Value", "Text"), new { @class = "form-control" })
             </div>
         </div>
         <div class="row">

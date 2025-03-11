@@ -1,7 +1,7 @@
 ﻿@model PortalCompras.Models.Licitacione
 
 @{
-    ViewBag.Title = "Licitaciones";
+    ViewBag.Title = "Borrar";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
@@ -9,11 +9,12 @@
 
 <h3>¿Esta seguro que desea borrar?</h3>
 <div>
-    <h4>Licitacione</h4>
+    
     <hr />
     <dl class="dl-horizontal">
         <dt>
-            @Html.DisplayNameFor(model => model.NombreLicitacion)
+            Licitación
+            @*@Html.DisplayNameFor(model => model.NombreLicitacion)*@
         </dt>
 
         <dd>
@@ -21,7 +22,8 @@
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.FechaCreacionLicitacion)
+            Fecha de creación
+            @*@Html.DisplayNameFor(model => model.FechaCreacionLicitacion)*@
         </dt>
 
         <dd>
@@ -29,7 +31,8 @@
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.FechaCierreLicitacion)
+            Fecha de cierre
+            @*@Html.DisplayNameFor(model => model.FechaCierreLicitacion)*@
         </dt>
 
         <dd>
@@ -37,7 +40,8 @@
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.FechaAdjudicacionLicitacion)
+            Fecha de adjudicación
+            @*@Html.DisplayNameFor(model => model.FechaAdjudicacionLicitacion)*@
         </dt>
 
         <dd>
@@ -45,7 +49,8 @@
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.ObservacionesLicitacion)
+            Observaciones
+            @*@Html.DisplayNameFor(model => model.ObservacionesLicitacion)*@
         </dt>
 
         <dd>
@@ -53,11 +58,22 @@
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.Licitador.NombreLicitador)
+            Licitador
+            @*@Html.DisplayNameFor(model => model.Licitador.NombreLicitador)*@
         </dt>
 
         <dd>
+            
             @Html.DisplayFor(model => model.Licitador.NombreLicitador)
+        </dd>
+
+        <dt>
+            Producto
+            @*@Html.DisplayNameFor(model => model.Producto.NombreProducto)*@
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Producto.NombreProducto)
         </dd>
 
     </dl>

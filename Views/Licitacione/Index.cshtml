@@ -5,7 +5,7 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-
+<h2>Licitaciones</h2>
 
 <p>
     @Html.ActionLink("Nuevo", "Create")
@@ -13,22 +13,32 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.NombreLicitacion)
+            Licitación
+            @*@Html.DisplayNameFor(model => model.NombreLicitacion)*@
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.FechaCreacionLicitacion)
+            Fecha de creación
+            @*@Html.DisplayNameFor(model => model.FechaCreacionLicitacion)*@
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.FechaCierreLicitacion)
+            Fecha de cierre
+            @*@Html.DisplayNameFor(model => model.FechaCierreLicitacion)*@
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.FechaAdjudicacionLicitacion)
+            Fecha de adjudicación
+            @*@Html.DisplayNameFor(model => model.FechaAdjudicacionLicitacion)*@
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.ObservacionesLicitacion)
+            Observaciones
+            @*@Html.DisplayNameFor(model => model.ObservacionesLicitacion)*@
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Licitador.NombreLicitador)
+            Licitador
+            @*@Html.DisplayNameFor(model => model.Licitador.NombreLicitador)*@
+        </th>
+        <th>
+            Producto
+            @*@Html.DisplayNameFor(model => model.Producto.NombreProducto)*@
         </th>
         <th></th>
     </tr>
@@ -55,13 +65,15 @@
                 @Html.DisplayFor(modelItem => item.Licitador.NombreLicitador)
             </td>
             <td>
+                @Html.DisplayFor(modelItem => item.Producto.NombreProducto)
+            </td>
+            <td>
                 @Html.ActionLink("Editar", "Edit", new { id = item.IdLicitacion }) |
                 @Html.ActionLink("Detalle", "Details", new { id = item.IdLicitacion }) |
                 @Html.ActionLink("Borrar", "Delete", new { id = item.IdLicitacion })
-                @Html.ActionLink("Cotizaciones", "Index", "LicitacionCotizacionProv", new { Id = item.IdLicitacion }, null)
-                @Html.ActionLink("Adjudicaciones", "Index", "AdjudicacionLicitacionProveedor", new { Id = item.IdLicitacion }, null)
             </td>
         </tr>
     }
 
 </table>
+<p>@Html.ActionLink("Volver a menu inicial", "indexlogueado", "Home", new { area = "" }, new { @class = "nav-link" })</p>

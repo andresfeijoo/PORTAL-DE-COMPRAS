@@ -1,20 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\afeij\\OneDrive\\Escritorio\\PortalCompras\\portal-de-compras\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|c:\\users\\afeij\\onedrive\\escritorio\\portalcompras\\portal-de-compras\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|c:\\users\\afeij\\onedrive\\escritorio\\portalcompras\\portal-de-compras\\views\\adjudicacionlicitacionproveedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|solutionrelative:views\\adjudicacionlicitacionproveedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|c:\\users\\afeij\\onedrive\\escritorio\\portalcompras\\portal-de-compras\\views\\organismolicitantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B7E8AF-DFBB-423A-AC92-AA72C4847C5B}|PortalCompras.csproj|solutionrelative:views\\organismolicitantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\afeij\\Desktop\\ultima version\\portal-de-compra\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,54 +9,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\afeij\\OneDrive\\Escritorio\\PortalCompras\\portal-de-compras\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\afeij\\OneDrive\\Escritorio\\PortalCompras\\portal-de-compras\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAACZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-02T19:24:48.145Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\afeij\\OneDrive\\Escritorio\\PortalCompras\\portal-de-compras\\Views\\AdjudicacionLicitacionProveedor\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\AdjudicacionLicitacionProveedor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\afeij\\OneDrive\\Escritorio\\PortalCompras\\portal-de-compras\\Views\\AdjudicacionLicitacionProveedor\\Index.cshtml",
-              "RelativeToolTip": "Views\\AdjudicacionLicitacionProveedor\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-02T19:24:25.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\afeij\\OneDrive\\Escritorio\\PortalCompras\\portal-de-compras\\Views\\OrganismoLicitantes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\OrganismoLicitantes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\afeij\\OneDrive\\Escritorio\\PortalCompras\\portal-de-compras\\Views\\OrganismoLicitantes\\Index.cshtml",
-              "RelativeToolTip": "Views\\OrganismoLicitantes\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-02T19:17:14.645Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

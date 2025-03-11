@@ -1,0 +1,20 @@
+﻿@model PortalCompras.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "Eliminar Usuario";
+}
+
+<h2>Eliminar Usuario</h2>
+
+<div class="alert alert-warning">
+    <p>¿Estás seguro de que deseas eliminar el usuario <strong>@Model.Email</strong>?</p>
+</div>
+
+@using (Html.BeginForm("DeleteUser", "Admins", new { id = Model.Id }, FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        <input type="submit" value="Confirmar eliminación" class="btn btn-danger" />
+        @Html.ActionLink("Cancelar", "UserList", "Admins", null, new { @class = "btn btn-default", style = "margin-left:5px;" })
+    </div>
+}

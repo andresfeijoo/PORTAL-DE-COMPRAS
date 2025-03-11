@@ -32,6 +32,7 @@
     <Property Name="FechaCierreLicitacion" Type="datetime" Nullable="false" />
     <Property Name="FechaAdjudicacionLicitacion" Type="datetime" Nullable="false" />
     <Property Name="ObservacionesLicitacion" Type="varchar(max)" Nullable="false" />
+    <Property Name="IdProducto" Type="int" Nullable="false" />
   </EntityType>
   <EntityType Name="Licitadors">
     <Key>
@@ -153,6 +154,18 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
+  <Association Name="FK_Licitaciones_Productoes">
+    <End Role="Productoes" Type="Self.Productoes" Multiplicity="1" />
+    <End Role="Licitaciones" Type="Self.Licitaciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Productoes">
+        <PropertyRef Name="IdProducto" />
+      </Principal>
+      <Dependent Role="Licitaciones">
+        <PropertyRef Name="IdProducto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
   <Association Name="FK_Licitador_OrganismoLicitante">
     <End Role="OrganismoLicitantes" Type="Self.OrganismoLicitantes" Multiplicity="1" />
     <End Role="Licitadors" Type="Self.Licitadors" Multiplicity="*" />
@@ -199,6 +212,10 @@
     </AssociationSet>
     <AssociationSet Name="FK_Licitaciones_Licitador" Association="Self.FK_Licitaciones_Licitador">
       <End Role="Licitadors" EntitySet="Licitadors" />
+      <End Role="Licitaciones" EntitySet="Licitaciones" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Licitaciones_Productoes" Association="Self.FK_Licitaciones_Productoes">
+      <End Role="Productoes" EntitySet="Productoes" />
       <End Role="Licitaciones" EntitySet="Licitaciones" />
     </AssociationSet>
     <AssociationSet Name="FK_Licitador_OrganismoLicitante" Association="Self.FK_Licitador_OrganismoLicitante">

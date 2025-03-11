@@ -1,0 +1,86 @@
+﻿@model PortalCompras.Models.AdjudicacionLicitacionProveedor
+
+@{
+    ViewBag.Title = "Adjudicación";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalle</h2>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        
+
+        <dt>
+            Nro de Adjudicación
+            @*@Html.DisplayNameFor(model => model.FormaPagoAdj)*@
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdAdjudicacion)
+        </dd>
+        <dt>
+            Nro de Licitación
+            @*@Html.DisplayNameFor(model => model.FormaPagoAdj)*@
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdLicitacion)
+        </dd>
+
+        <dt>
+            Forma de pago
+            @*@Html.DisplayNameFor(model => model.FormaPagoAdj)*@
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FormaPagoAdj)
+        </dd>
+
+        <dt>
+            Cotización
+            @*@Html.DisplayNameFor(model => model.LicitacionCotizacionProv.IdCotizacion)*@
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LicitacionCotizacionProv.IdCotizacion)
+        </dd>
+
+        <dt>
+            Licitación
+            @*@Html.DisplayNameFor(model => model.Licitacione.NombreLicitacion)*@
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Licitacione.NombreLicitacion)
+        </dd>
+
+        <dt>
+            Producto
+            @*@Html.DisplayNameFor(model => model.Producto.NombreProducto)*@
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Producto.NombreProducto)
+        </dd>
+
+        <dt>
+            Precio unitario
+            @*@Html.DisplayNameFor(model => model.FormaPagoAdj)*@
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => Model.LicitacionCotizacionProv.PrecioUnitario)
+        </dd>
+
+
+
+
+    </dl>
+</div>
+<p>
+    <button type="button" onclick="window.print()">Imprimir Detalle</button>
+    @Html.ActionLink("Volver", "Indexprov")
+</p>
